@@ -18,7 +18,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orujhimaru&" alt="orujhimaru" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orujhimaru&show_icons=true&locale=en" alt="orujhimaru" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orujhimaru&" alt="orujhimaru" /></p>
+
 
 
 
