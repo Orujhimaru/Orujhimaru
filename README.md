@@ -18,7 +18,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orujhimaru&" alt="orujhimaru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Orujhimaru&" alt="orujhimaru" /></p>
 
 
 
