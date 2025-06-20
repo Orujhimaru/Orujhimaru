@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orujhimaru&show_icons=true"  /></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+<img src="https://skillicons.dev/icons?i=py,ts,redis,postgres,kotlin,java,aws,react,ts,js,html,css,blender,figma,docker" />
 
 
 
