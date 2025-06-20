@@ -14,21 +14,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orujhimaru&show_icons=true"  /></p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/go.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/python.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/java.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/kotlin.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/android.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/react.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/typescript.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/javascript.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/html.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/css.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/sass.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/figma.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/docker.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/postgresql.png
+https://raw.githubusercontent.com/orujhimaru/profile-technology-icons/refs/heads/main/icons/redis.png
 
 
 ----
