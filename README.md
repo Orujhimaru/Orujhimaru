@@ -9,9 +9,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orujhimaru&layout=compact&hide=html&bg_color='#66000000'"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orujhimaru&layout=compact&hide=html&bg_color='66000000'"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orujhimaru&show_icons=true&bg_color='#66000000'"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Orujhimaru&show_icons=true&bg_color='66000000'"  /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
